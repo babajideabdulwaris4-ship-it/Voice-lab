@@ -1,0 +1,6 @@
+{
+  "name": "VoiceLab",
+  "description": "A premium, fully functional single-screen multitrack vocal recording and music creation studio exactly like BandLab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
